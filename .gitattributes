@@ -1,0 +1,4 @@
+Diffusion_Model_Generation/models.zip filter=lfs diff=lfs merge=lfs -text
+Diffusion_Model_Generation/Data.zip filter=lfs diff=lfs merge=lfs -text
+Data_Processing/vJun26_3UTR_Timo_Matt_Merged_data_mincount100.csv.zip filter=lfs diff=lfs merge=lfs -text
+UTR_celltype_github/Data_Processing/vJun26_3UTR_Timo_Matt_Merged_data_mincount100.csv.zip filter=lfs diff=lfs merge=lfs -text
